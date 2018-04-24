@@ -18,7 +18,7 @@ nav ul li, footer ul li {
 a {
     text-decoration: none;
     font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;
-    color: #0645AD;
+    color: #333;
 }
 
 a:hover {
