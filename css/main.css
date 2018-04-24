@@ -51,8 +51,8 @@ figcaption {
 }
 
 figure {
-  float: right;
-  width: 50%;
+  float: left;
+  width: 70%;
   text-align: center;
   font-style: italic;
   font-size: smaller;
