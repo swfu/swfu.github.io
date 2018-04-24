@@ -19,12 +19,13 @@ nav ul li, footer ul li {
 a {
     text-decoration: none;
     font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
-    color: #999;
+    color: #333;
 }
 
 a:hover {
     text-decoration: underline;
     font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+    color: #333;
 }
 
 h1 {
